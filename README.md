@@ -6,5 +6,5 @@ You can click the Preview link to take a look at your changes.
 
 - 👋 Hi, I’m souvik_dutta.
 - 👀 I’m interested in web development & cyber security.
-- 🌱 I’m currently learning mern stack & cyber security.
+- 🌱 I’m currently learning mern stack.
 - 💞️ I’m looking to collaborate on open source web applications. 
