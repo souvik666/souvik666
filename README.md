@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
-- 📫 How to reach me: **souvikdutta8889@gmail.com**
+- 📫 How to reach me: **souvik.dutta@masaischool.com
 
 - ⚡ What I like to do: **I like so much reading, drawing and traveling...and coding of course**
 
