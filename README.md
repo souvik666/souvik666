@@ -77,6 +77,9 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.fastify.io/" target="_blank"> 
     <img src="https://plugins.jetbrains.com/files/13801/132640/icon/pluginIcon.svg" alt="fastify" width="40" height="40"/> 
   </a>
+  <a href="https://redux.js.org/" target="_blank"> 
+    <img src="https://spng.subpng.com/20180518/lxx/kisspng-redux-react-javascript-freecodecamp-npm-5afe8d07330f01.4423642715266316872092.jpg" alt="fastify" width="40" height="40"/> 
+  </a>
   
 </p>
 
