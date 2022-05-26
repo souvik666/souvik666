@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me: **souvik.dutta@masaischool.com**
 
-- ⚡ What I like to do: **I like so much reading, drawing and traveling...and coding ofcourse**
+- ⚡ What I like to do: **I like reading, drawing and traveling...and coding ofcourse**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
