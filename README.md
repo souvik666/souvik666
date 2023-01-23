@@ -46,6 +46,9 @@ You can click the Preview link to take a look at your changes.
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
+   <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="Typescript " width="40" height="40"/> 
+  </a>
   <a href="https://www.linux.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
@@ -84,10 +87,15 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.fastify.io/" target="_blank"> 
     <img src="https://plugins.jetbrains.com/files/13801/132640/icon/pluginIcon.svg" alt="fastify" width="40" height="40"/> 
   </a>
+
+ 
   <a href="https://redux.js.org/" target="_blank"> 
-    <img src="https://spng.subpng.com/20180518/lxx/kisspng-redux-react-javascript-freecodecamp-npm-5afe8d07330f01.4423642715266316872092.jpg" alt="fastify" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="redux" width="40" height="40"/> 
   </a>
-  
+   <a href="https://rematchjs.org/" target="_blank"> 
+    <img src="https://rematchjs.org/img/logo.svg" alt="rematch" width="40" height="40"/> 
+  </a>
+ 
 </p>
 
 <p align= "center">
