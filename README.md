@@ -28,8 +28,6 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=souvik666&theme=tokyonight&date_format=j%20M%5B%20Y%5D)  
  </br>
 ![](https://komarev.com/ghpvc/?username=souvik666&color=lightgrey&style=plastic&label=PROFILE+VIEWS)
- 
-
 </div>
 <h3 align="center">Languages and Tools:</h3>
 
