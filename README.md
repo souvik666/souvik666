@@ -95,7 +95,10 @@ You can click the Preview link to take a look at your changes.
    <a href="https://rematchjs.org/" target="_blank"> 
     <img src="https://rematchjs.org/img/logo.svg" alt="rematch" width="40" height="40"/> 
   </a>
- 
+  <a href="https://supabase.com/" target="_blank"> 
+    <img src="https://www.nuget.org/profiles/supabase/avatar?imageSize=512" alt="supabase" width="40" height="40"/> 
+  </a>
+  
 </p>
 
 <p align= "center">
