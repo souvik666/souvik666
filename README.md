@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm souvik <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- ✨ I’m currently working at **[baliza.io](https://baliza.io/)**
+- ✨ I’m currently working at **[clibrain](clibrain.com)**
 
 - 👨‍💻 i'm looking to collaborate on **open source projects**
 
