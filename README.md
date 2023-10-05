@@ -25,9 +25,12 @@ You can click the Preview link to take a look at your changes.
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souvik@baliza.io)
 
+
  
  </br>
  
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=souvik666&theme=merko)  
+
  ![](https://komarev.com/ghpvc/?username=souvik666&color=lightgrey&style=plastic&label=PROFILE+VIEWS)
 </div>
 <h3 align="center">Languages and Tools:</h3>
