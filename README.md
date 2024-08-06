@@ -83,7 +83,7 @@ You can click the Preview link to take a look at your changes.
 
   
   <a href="https://expressjs.com/" target="_blank"> 
-    <img src="https://www.nextontop.com/assets/img/services/web/expressjs.svg" alt="expressjs" width="40" height="40"/> 
+    <img src="https://miro.medium.com/v2/resize:fit:1400/1*i2fRBk3GsYLeUk_Rh7AzHw.png" alt="expressjs" width="40" height="40"/> 
   </a>
 
   <a href="https://www.fastify.io/" target="_blank"> 
