@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
  
  </br>
  
- ![](https://github-readme-streak-stats.herokuapp.com/?user=souvik666&theme=merko)  
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=souvik666&theme=soft-green)  
 
  ![](https://komarev.com/ghpvc/?username=souvik666&color=lightgrey&style=plastic&label=PROFILE+VIEWS)
 </div>
