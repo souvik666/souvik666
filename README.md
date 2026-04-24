@@ -23,8 +23,11 @@
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/System%20Design-111111?style=for-the-badge" />
+
+
 </p>
 
 ---
@@ -65,38 +68,13 @@ React • Next.js • TypeScript • SaaS platforms • AI-first UX systems
 ---
 
 ## 🧩 Core Stack
+| Category      | Technologies                                                                                      |
+| ------------- | ------------------------------------------------------------------------------------------------- |
+| AI / LLM Core | LLMs, RAG Pipelines, LangChain, LangGraph, Prompt Engineering, Vector Databases, Agent Frameworks |
+| Backend       | Python, FastAPI, Django REST Framework, Node.js,Express.js REST APIs, Microservices, System Design          |
+| Frontend      | React, Next.js, TypeScript, TailwindCSS                                                           |
+| Infra         | Docker, Redis, Linux, CI/CD, Git, Cloud Deployments                                               |
 
-AI / LLM Core:
-- LLMs
-- RAG Pipelines
-- LangChain
-- LangGraph
-- Prompt Engineering
-- Vector Databases
-- Agent Frameworks
-
-Backend:
-- Python
-- FastAPI
-- Django REST Framework
-- Node.js
-- REST APIs
-- Microservices
-- System Design
-
-Frontend:
-- React
-- Next.js
-- TypeScript
-- TailwindCSS
-
-Infra:
-- Docker
-- Redis
-- Linux
-- CI/CD
-- Git
-- Cloud Deployments
 
 ---
 
