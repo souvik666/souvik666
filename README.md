@@ -91,28 +91,12 @@ React • Next.js • TypeScript • SaaS platforms • AI-first UX systems
 ---
 ## 🏢 Worked With
 
-<p align="left">
-
-  <a href="https://caleida.io" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN2GiMsVCcRy7oQ_980bNEEtbHTw9csF4tXQ&s" height="45" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://clibrain.com" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt7AhfAx0irf562zGPNrtVQZQ1zMmwGaQIgw&s" height="45" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://baliza.io" target="_blank">
-    <img src="https://www.baliza.io/assets/baliza-logo-LoyylSDO.png" height="45" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://masaischool.com" target="_blank">
-    <img src="https://cdn.masaischool.com/masai-website/masai_dark_853075d7cd.png" height="45" />
-  </a>
-
-</p>
+ <ul>
+  <li><a href="https://caleida.io" target="_blank"><b>@caleida</b></a></li>
+  <li><a href="https://clibrain.com" target="_blank"><b>@clibrain</b></a></li>
+  <li><a href="https://baliza.io" target="_blank"><b>@baliza</b></a></li>
+  <li><a href="https://masaischool.com" target="_blank"><b>@masaischool</b></a></li>
+</ul>
 
 
 ---
