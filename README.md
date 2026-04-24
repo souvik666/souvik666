@@ -1,111 +1,151 @@
-<!---
-souvik666/souvik666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-
-<h1 align="center">Hi 👋, I'm souvik <img height="40" src="https://media.tenor.com/ktVHlEjmIqYAAAAi/hi-corgi.gif"></h1>
-<h3 align="center">A passionate full stack developer from India</h3>
-
-- ✨ I’m currently working at  **[Caleida](https://www.caleida.io/)**
-
-- 👨‍💻 i'm looking to collaborate on **open source projects**
-
-
-<h3 align="center">Connect with me:</h3>
-
-
-
-<div align="center">
-
-
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souvik-dutta-0913631a1/)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souvik@baliza.io)
-
-
  
- </br>
- 
- ![](https://github-readme-streak-stats.herokuapp.com/?user=souvik666&theme=soft-green)  
 
- ![](https://komarev.com/ghpvc/?username=souvik666&color=lightgrey&style=plastic&label=PROFILE+VIEWS)
-</div>
-<h3 align="center">Languages and Tools:</h3>
+<h1 align="center">Souvik Dutta ⚡ </h1>
 
-<p align="center"> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-   <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="Typescript " width="40" height="40"/> 
-  </a>
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="node" width="40" height="40"/> 
-  </a>
-<a href="https://nodejs.org/en/" target="_blank"> 
-    <img src="https://nodejs.org/static/images/logo.svg" alt="git" width="40" height="40"/> 
-  </a>
+<h4 align="center">
+🚀 AI Systems Engineer • 🧠 Full Stack Architect • ⚙️ LLM / RAG Specialist
+</h4>
 
-<a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyp7FFYRwNKbTumOgu4zGIJOQpv8y0ngkLHw&s" alt="react" width="40" height="40"/> 
-  </a>
-  
-  <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_mongodb.svg/512px-Antu_mongodb.svg.png" alt="mongodb" width="40" height="40"/> 
-  </a>
-  
-  
-  
-  
-  <a href="https://www.npmjs.com/" target="_blank"> 
-    <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/npm-logo.png" alt="npmjs" width="40" height="40"/> 
-  </a>
-
-  
-  <a href="https://redis.io/" target="_blank"> 
-    <img src="https://download.logo.wine/logo/Redis/Redis-Logo.wine.png" alt="Redis" width="40" height="40"/> 
-  </a>
-
-  
-  <a href="https://expressjs.com/" target="_blank"> 
-    <img src="https://miro.medium.com/v2/resize:fit:1400/1*i2fRBk3GsYLeUk_Rh7AzHw.png" alt="expressjs" width="40" height="40"/> 
-  </a>
-
-  <a href="https://www.fastify.io/" target="_blank"> 
-    <img src="https://plugins.jetbrains.com/files/13801/132640/icon/pluginIcon.svg" alt="fastify" width="40" height="40"/> 
-  </a>
-
- 
-  <a href="https://redux.js.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="redux" width="40" height="40"/> 
-  </a>
-   <a href="https://rematchjs.org/" target="_blank"> 
-    <img src="https://rematchjs.org/img/logo.svg" alt="rematch" width="40" height="40"/> 
-  </a>
-  <a href="https://supabase.com/" target="_blank"> 
-    <img src="https://www.nuget.org/profiles/supabase/avatar?imageSize=512" alt="supabase" width="40" height="40"/> 
-  </a>
-  
+<p align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&pause=800&center=true&vCenter=true&width=900&color=10b981&lines=AI+Systems+Engineer;Full+Stack+Architect;LLM+%2F+RAG+Engineer;Agentic+Workflow+Builder;Production+SaaS+Builder;Scalable+AI+Systems+Designer" />
 </p>
 
-<p align= "center">
  
+
+<p align="center">
+<img src="https://img.shields.io/badge/AI%20Systems-000000?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LLMs-1f1f1f?style=for-the-badge&logo=OpenAI&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG%20Pipelines-2b2b2b?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangGraph-0A0A0A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FastAPI-05998b?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/System%20Design-111111?style=for-the-badge" />
 </p>
 
-------
+---
 
+## 🧠 Snapshot
+
+AI Engineer focused on **LLM systems, RAG pipelines, agent orchestration, and scalable backend architecture**.
+
+I design and ship production-grade AI systems with strong emphasis on reliability, tooling, and scalability.
+
+---
+
+## ⚙️ What I Build
+
+🧠 **AI Agent Systems**  
+LangGraph • Tool-using LLMs • Multi-agent workflows • Autonomous pipelines  
+
+🔍 **RAG & Knowledge Systems**  
+Vector DBs • Retrieval pipelines • Context orchestration • Semantic search systems  
+
+🚀 **Backend Systems**  
+FastAPI • Node.js • Django REST Framework • Microservices • Distributed systems • API architecture  
+
+🌐 **Full Stack AI Products**  
+React • Next.js • TypeScript • SaaS platforms • AI-first UX systems  
+
+---
+
+## 🎯 Focus Areas
+
+• Agentic AI architecture  
+• Production RAG systems  
+• LLM orchestration frameworks  
+• Multi-tenant SaaS design  
+• Scalable backend systems  
+• AI product engineering  
+
+---
+
+## 🧩 Core Stack
+
+AI / LLM Core:
+- LLMs
+- RAG Pipelines
+- LangChain
+- LangGraph
+- Prompt Engineering
+- Vector Databases
+- Agent Frameworks
+
+Backend:
+- Python
+- FastAPI
+- Django REST Framework
+- Node.js
+- REST APIs
+- Microservices
+- System Design
+
+Frontend:
+- React
+- Next.js
+- TypeScript
+- TailwindCSS
+
+Infra:
+- Docker
+- Redis
+- Linux
+- CI/CD
+- Git
+- Cloud Deployments
+
+---
+
+## 💼 Roles
+
+<p align="left">
+  <img src="https://img.shields.io/badge/🤖%20AI%20Engineer-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🧠%20AI%20Systems%20Architect-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⚙️%20Backend%20Engineer-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🧑‍💻%20Full%20Stack%20Engineer-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀%20Founding%20Engineer-111111?style=for-the-badge" />
+</p>
+
+---
+## 🏢 Worked With
+
+<p align="left">
+
+  <a href="https://caleida.io" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN2GiMsVCcRy7oQ_980bNEEtbHTw9csF4tXQ&s" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://clibrain.com" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt7AhfAx0irf562zGPNrtVQZQ1zMmwGaQIgw&s" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://baliza.io" target="_blank">
+    <img src="https://www.baliza.io/assets/baliza-logo-LoyylSDO.png" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://masaischool.com" target="_blank">
+    <img src="https://cdn.masaischool.com/masai-website/masai_dark_853075d7cd.png" height="45" />
+  </a>
+
+</p>
+
+
+---
+
+## 📡 Connect
+
+<p align="left">
+  <a href="https://github.com/souvik666">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://in.linkedin.com/in/dev-souvik-dutta">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
