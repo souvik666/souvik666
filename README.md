@@ -31,7 +31,7 @@
 </p>
 
 ---
-
+ 
 ## 🧠 Snapshot
 
 AI Engineer focused on **LLM systems, RAG pipelines, agent orchestration, and scalable backend architecture**.
@@ -91,11 +91,11 @@ React • Next.js • TypeScript • SaaS platforms • AI-first UX systems
 ---
 ## 🏢 Worked With
 
- <ul>
-  <li><a href="https://caleida.io" target="_blank"><b>@caleida</b></a></li>
-  <li><a href="https://clibrain.com" target="_blank"><b>@clibrain</b></a></li>
-  <li><a href="https://baliza.io" target="_blank"><b>@baliza</b></a></li>
-  <li><a href="https://masaischool.com" target="_blank"><b>@masaischool</b></a></li>
+<ul>
+  <li><a href="https://caleida.io" target="_blank"><span style="color:#10b981;"><b>@caleida</b></span></a></li>
+  <li><a href="https://clibrain.com" target="_blank"><span style="color:#10b981;"><b>@clibrain</b></span></a></li>
+  <li><a href="https://baliza.io" target="_blank"><span style="color:#10b981;"><b>@baliza</b></span></a></li>
+  <li><a href="https://masaischool.com" target="_blank"><span style="color:#10b981;"><b>@masaischool</b></span></a></li>
 </ul>
 
 
